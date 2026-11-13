@@ -1,9 +1,11 @@
 package com.smiley;
 public class Alpha {
 
-    // This class is intentionally left empty to demonstrate branching in Git. It serves no functional purpose in the application and can be considered a code smell due to its lack of implementation and relevance.
- 
-    //keep working on the featureX branch
+    public void doSmth() {
+        int x = 5;
+        int y = 5;
 
-    //changes for FeatureZ 
+        if(true)
+            y = 6;
+    }
 }
